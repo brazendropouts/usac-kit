@@ -27,3 +27,4 @@ most_recent.team_name # => "Brazen Dropouts Cycling Team"
 ```
 
 - [YARD documentation](http://www.rubydoc.info/github/brazendropouts/usac-kit)
+- ![Build Status](https://travis-ci.org/brazendropouts/usac-kit.svg?branch=master)
